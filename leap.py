@@ -8,4 +8,4 @@ if x % 4 == 0:
     else:
         print(x, "is  a leap year")
 else:
-    print(x, "is not a leap year")git
+    print(x, "is not a leap year")
